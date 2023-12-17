@@ -20,19 +20,19 @@ Extract the archive files of datasets into the `/data` folder. The download link
 
 #### SCUT-FBP5500
 
-- Google Drive:
+- Google Drive: https://drive.google.com/file/d/1ObjJ8RwYBVI71Eyo_wsM1dWzI0JbhotA/view
 - Baidu Netdisk: https://pan.baidu.com/s/1YWalTRX4YwV7XGMcCXJ5Dg?pwd=157g (Pass: 157g)
 
 #### SCUT-FBP
 
-- Google Drive:
+- Google Drive: https://drive.google.com/file/d/1KB9F2eASZgKrnL3FUaR_59XUKjns_Aim/view
 - Baidu Netdisk: https://pan.baidu.com/s/13sGf7HypD_z_ZwWdPIfdug?pwd=dpmj (Pass: dpmj)
 
 ### VGG Pretrained models
 
 Place the pretrained models with `.pth` format under the `/models` folder.
 
-- Google Drive:
+- Google Drive: https://drive.google.com/drive/folders/1-wStPO8K3fN9Xijp4gYbG_Sl64K5AFwE
 - Baidu Netdisk: https://pan.baidu.com/s/1WPeVsRph3vJPNVIxV8EpjQ?pwd=wgnv (Pass:wgnv)
 
 ## Instruction
