@@ -21,12 +21,19 @@ Extract the archive files of datasets into the `/data` folder. The download link
 #### SCUT-FBP5500
 
 - Google Drive:
-- Baidu Netdisk:
+- Baidu Netdisk: https://pan.baidu.com/s/1YWalTRX4YwV7XGMcCXJ5Dg?pwd=157g (Pass: 157g)
 
 #### SCUT-FBP
 
 - Google Drive:
-- Baidu Netdisk:
+- Baidu Netdisk: https://pan.baidu.com/s/13sGf7HypD_z_ZwWdPIfdug?pwd=dpmj (Pass: dpmj)
+
+### VGG Pretrained models
+
+Place the pretrained models with `.pth` format under the `/models` folder.
+
+- Google Drive:
+- Baidu Netdisk: https://pan.baidu.com/s/1WPeVsRph3vJPNVIxV8EpjQ?pwd=wgnv (Pass:wgnv)
 
 ## Instruction
 
@@ -98,6 +105,7 @@ python 2D_FAP.py --dataset 500
   - Available options
 
     - '1': $L_{score}= \ln {[\frac12(\exp{(\hat y^{(i)}-y^{(i)})}+\exp{(y^{(i)}-\hat y^{(i)})})]}$
+
     - '2': $L_{score}= \ln{(1+|\hat y^{(i)}-y^{(i)}|)}$
     - '3': $L_{score}=\exp{(|\hat y^{(i)}-y^{(i)}|)-1}$
     - '4': $L_{score}= \ln{(|\hat y^{(i)}-y^{(i)}|+\sqrt{1+|\hat y^{(i)}-y^{(i)}|^2})}$
